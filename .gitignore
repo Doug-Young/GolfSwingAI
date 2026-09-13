@@ -31,3 +31,12 @@ backend/models/*.task
 
 # Generated overlay videos
 backend/renders/
+
+# Personal test videos — only VideoEdit.webm is committed as the demo
+IMG_*.MOV
+IMG_*.mov
+IMG_*.mp4
+IMG_*.MP4
+
+# Claude Code local config
+.claude/
