@@ -1,4 +1,4 @@
-# GolfSwingAI - Fun side project using markers to try extract swing insights
+# GolfSwingAI - Fun side project using biomarkers markers to try extract swing insights
 
 ![Demo of the swing analyser showing skeleton overlay, spine angle, and detected club shaft](SwingEdit.gif)
 
