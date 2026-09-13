@@ -1,6 +1,6 @@
 # GolfSwingAI
 
-![Demo of the swing analyser showing skeleton overlay, spine angle, and detected club shaft](demo.gif)
+![Demo of the swing analyser showing skeleton overlay, spine angle, and detected club shaft](SwingEdit.gif)
 
 Upload a video of your golf swing, get frame-by-frame analysis, biomechanical metrics, and drills — all running locally, no paid APIs.
 
