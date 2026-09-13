@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Bash(pip --version)",
+      "Bash(npm create *)",
+      "Bash(npm install *)",
+      "Bash(pip install *)",
+      "Bash(python -c \"import fastapi, cv2, anthropic, uvicorn; print\\('All imports OK'\\)\")",
+      "Bash(python -c \"import google.generativeai as genai; print\\('Gemini SDK OK'\\)\")"
+    ]
+  }
+}
